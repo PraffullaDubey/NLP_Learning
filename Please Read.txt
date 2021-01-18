@@ -1,0 +1,5 @@
+I have will keep on updating this notebook as I keep on learning.
+This notebook is created with the help of the book "Natural Language Processing and Python" and the offical documentation of nltk.
+This notebook is just for learning purpose and hence most of the code is similar to the code present in the book mentioned above.
+The main purpose of this notebook is to share my learning and help others. Please feel free to connect and help others by sharing your knowledge.
+The book can be accessed at https://www.nltk.org/book/
