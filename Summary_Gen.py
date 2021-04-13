@@ -1,3 +1,4 @@
+#Python script to generate summary
 #install required library pip install sumy and pip install textrank
 
 from sumy.parsers.plaintext import PlaintextParser
